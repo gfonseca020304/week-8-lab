@@ -23,6 +23,16 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3c45556f-7397-4aa2-88b4-3bb8a898dfee"
+      }
+    },
+    "owner": "gfonseca03",
+    "plugins": [
+      "expo-sqlite",
+      "react-native-video"
+    ]
   }
 }
